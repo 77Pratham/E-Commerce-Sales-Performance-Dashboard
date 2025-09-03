@@ -78,8 +78,8 @@ RETURN
 
 ## 📞 Contact
 
-Your Name – [pratham.r.108@gmail.com](mailto:pratham.r.108@gmail.com)
+Pratham R – [pratham.r.108@gmail.com](mailto:pratham.r.108@gmail.com)
 
 LinkedIn: [https://www.linkedin.com/in/pratham-r-348b60262/](https://www.linkedin.com/in/pratham-r-348b60262/)
 
-Project Link: [https://github.com/yourusername/your-repo-name](https://github.com/yourusername/your-repo-name)
+Project Link: [https://github.com/77Pratham/E-Commerce-Sales-Performance-Dashboard](https://github.com/77Pratham/E-Commerce-Sales-Performance-Dashboard)
