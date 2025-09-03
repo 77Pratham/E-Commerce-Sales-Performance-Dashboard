@@ -1,6 +1,6 @@
 # E-Commerce Sales Performance Dashboard | Power BI Project
 
-![E-Commerce Dashboard Banner](https://i.imgur.com/your-banner-image-url.png) This repository contains the details and key components of an interactive E-Commerce Sales Performance Dashboard built using Power BI. The project analyzes over 50,000 transaction records to provide actionable insights into customer behavior, product performance, and seasonal trends.
+This repository contains the details and key components of an interactive E-Commerce Sales Performance Dashboard built using Power BI. The project analyzes over 50,000 transaction records to provide actionable insights into customer behavior, product performance, and seasonal trends.
 
 ---
 
@@ -9,7 +9,8 @@
 Here is a glimpse of the main dashboard page. The full report includes drill-through pages for detailed customer and product analysis.
 
 
-*(It is highly recommended to replace the tag above with a screenshot or an animated GIF of your actual dashboard to showcase its interactivity.)*
+<img width="1920" height="978" alt="Screenshot (315)" src="https://github.com/user-attachments/assets/5bd9db23-e0f5-41db-bcf6-8770b7a86ad4" />
+<img width="1920" height="975" alt="Screenshot (316)" src="https://github.com/user-attachments/assets/9fe0fa11-a4f8-4a0e-a945-9f89f347c8c6" />
 
 ---
 
